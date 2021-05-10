@@ -2,7 +2,7 @@
 - 👀 I’m interested in flutter development.
 - 🌱 I’m currently learning flutter
 - 💞️ I’m looking to collaborate on ...
-- 📫 reach me at: [Github](https://github.com/lilesh09cse) [Twitter](https://twitter.com/LileshGawande)
+- 📫 reach me at: [Github](https://github.com/lilesh09cse) [Twitter](https://twitter.com/LileshGawande) [✉](lileshgawande09@gmail.com)
 
 > Always learning
 
